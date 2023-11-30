@@ -1,4 +1,11 @@
-### Hi there 👋
+  <div>
+    <a href="https://github.com/Justin1107-good/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);1024!1024!1024!1024!1024!1024!&center=true&size=27" />
+    </a>
+  </div>
+
+ 
+
 <div align="center"> <img src="https://Justin1107-good.io/Justin1107-good?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <!--
 **Justin1107-good/Justin1107-good** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
