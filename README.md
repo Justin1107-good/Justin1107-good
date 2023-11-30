@@ -5,9 +5,7 @@
   </div>
 
  
-<div id="hello"> 
- https://github.com/Justin1107-good/Justin1107-good.github.io/blob/66efb5f212fb0e04ae644452ab660afc31bbf2da/images/ooo%20(1).gif
-</div>
+ 
    
 
 
